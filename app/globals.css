@@ -32,7 +32,7 @@
     --danger: 0 84.2% 60.2%;
     --danger-foreground: 0 0% 98%;
 
-    --ring: 240 5% 64.9%;
+    --ring: 215.29,100%,50%;;
 
     --radius: 0.5rem;
   }
@@ -54,6 +54,7 @@
     --input: 240 3.7% 15.9%;
 
     --primary: 215.23,100%,46.08%;
+    --primary-hover: 230.41,82.91%,45.88%;
     --primary-foreground: 0 0% 98%;
 
     --secondary: 240 3.7% 15.9%;
@@ -65,7 +66,7 @@
     --danger: 0 62.8% 30.6%;
     --danger-foreground: 0 85.7% 97.3%;
 
-    --ring: 240 3.7% 15.9%;
+    --ring: 215.29,100%,50%;
   }
 }
 
