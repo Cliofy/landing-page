@@ -1,2 +1,2 @@
-# IRANZI DEV
-# NEXT JS STARTER KIT
+# Cliofy
+# Landing page
